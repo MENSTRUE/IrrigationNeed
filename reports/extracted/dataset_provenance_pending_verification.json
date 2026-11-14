@@ -1,0 +1,9 @@
+{
+  "primary_filename": "second dataset collected.xlsx",
+  "primary_sha256": "f776f34fc9c7be1eef59614dc41ddeadef6fde9dc11d908c4ec8a513d6af4d2d",
+  "mounted_input_root": "/kaggle/input/datasets/loliwibu/irrigationneed-dataset",
+  "kaggle_dataset": "loliwibu/irrigationneed-dataset",
+  "source_url_primary": "https://data.mendeley.com/datasets/67gkrzbwrr/1",
+  "license_verified": false,
+  "note": "Confirm original source licenses, attribution and permissions before any data redistribution."
+}

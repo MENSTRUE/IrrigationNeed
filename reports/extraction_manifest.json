@@ -1,0 +1,86 @@
+{
+  "project": "IrrigationNeed",
+  "source_zip": "D:\\porto\\100 day\\day 36\\reports\\IrrigationNeed_Day36_RESULTS.zip",
+  "files": [
+    {
+      "source": "IrrigationNeed_Day36/auxiliary_csv_schema_inventory.csv",
+      "destination": "reports\\extracted\\auxiliary_csv_schema_inventory.csv",
+      "bytes": 7207
+    },
+    {
+      "source": "IrrigationNeed_Day36/dataset_provenance_pending_verification.json",
+      "destination": "reports\\extracted\\dataset_provenance_pending_verification.json",
+      "bytes": 493
+    },
+    {
+      "source": "IrrigationNeed_Day36/experiment_manifest.json",
+      "destination": "reports\\extracted\\experiment_manifest.json",
+      "bytes": 1734
+    },
+    {
+      "source": "IrrigationNeed_Day36/heldout_error_counts.csv",
+      "destination": "reports\\extracted\\heldout_error_counts.csv",
+      "bytes": 29
+    },
+    {
+      "source": "IrrigationNeed_Day36/heldout_test_metrics.json",
+      "destination": "reports\\extracted\\heldout_test_metrics.json",
+      "bytes": 779
+    },
+    {
+      "source": "IrrigationNeed_Day36/input_file_inventory.csv",
+      "destination": "reports\\extracted\\input_file_inventory.csv",
+      "bytes": 5310
+    },
+    {
+      "source": "IrrigationNeed_Day36/irrigation_champion.joblib",
+      "destination": "models\\irrigation_champion.joblib",
+      "bytes": 1317266
+    },
+    {
+      "source": "IrrigationNeed_Day36/label_distribution.png",
+      "destination": "assets\\plots\\label_distribution.png",
+      "bytes": 34094
+    },
+    {
+      "source": "IrrigationNeed_Day36/leakage_audit.json",
+      "destination": "reports\\extracted\\leakage_audit.json",
+      "bytes": 223
+    },
+    {
+      "source": "IrrigationNeed_Day36/missingness.png",
+      "destination": "assets\\plots\\missingness.png",
+      "bytes": 48538
+    },
+    {
+      "source": "IrrigationNeed_Day36/sensor_distributions.png",
+      "destination": "assets\\plots\\sensor_distributions.png",
+      "bytes": 64691
+    },
+    {
+      "source": "IrrigationNeed_Day36/split_audit.csv",
+      "destination": "reports\\extracted\\split_audit.csv",
+      "bytes": 246
+    },
+    {
+      "source": "IrrigationNeed_Day36/split_class_balance.png",
+      "destination": "assets\\plots\\split_class_balance.png",
+      "bytes": 32266
+    },
+    {
+      "source": "IrrigationNeed_Day36/test_confusion_matrix.png",
+      "destination": "assets\\plots\\test_confusion_matrix.png",
+      "bytes": 31524
+    },
+    {
+      "source": "IrrigationNeed_Day36/validation_model_comparison.csv",
+      "destination": "reports\\extracted\\validation_model_comparison.csv",
+      "bytes": 236
+    },
+    {
+      "source": "IrrigationNeed_Day36/validation_models.png",
+      "destination": "assets\\plots\\validation_models.png",
+      "bytes": 29831
+    }
+  ]
+}

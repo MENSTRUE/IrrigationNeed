@@ -1,0 +1,40 @@
+path,bytes,extension
+01_Irrigation_Dataset/Irrigation-Dataset/second dataset collected.xlsx,114698,.xlsx
+"02_Smart_Irrigation_Control/Smart irrigation control system data with soil moisture, flow meter and electrovalve relay/D_flowmeter.txt",629036,.txt
+"02_Smart_Irrigation_Control/Smart irrigation control system data with soil moisture, flow meter and electrovalve relay/D_moisture.txt",119739,.txt
+"02_Smart_Irrigation_Control/Smart irrigation control system data with soil moisture, flow meter and electrovalve relay/D_valve.txt",418266,.txt
+03_Environmental_Sensor/Environmental Sensor Dataset for LSTM-Based Predic/Edge_IoT_Predictive_Irrigation_Dataset.xlsx,52457,.xlsx
+"04_Soil_Moisture_Motor/Soil Moisture, Air temperature, humidity, and Motor onoff Monitoring data/Soil Moisture, Air Temperature and humidity, and Water Motor onoff Monitor data.AmritpalKaur.csv",116065,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_irrigation_actuators/raw_actuators.csv",140413377,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_irrigation_actuators/raw_measurements.csv",255415996,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_irrigation_actuators/raw_nominal_flow_rates.csv",606,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_sensor/MEASUREMENT_all.csv",26603330,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_sensor/MEASUREMENT_ce.csv",3860910,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_sensor/MEASUREMENT_ph.csv",8146962,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_sensor/MEASUREMENT_ste.csv",1013049,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_sensor/MEASUREMENT_sti.csv",4427767,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_sensor/MEASUREMENT_sue.csv",1014535,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_sensor/MEASUREMENT_sui.csv",4432181,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/01_raw_data/raw_sensor/MEASUREMENT_sut.csv",2820460,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/irrigation_events/final_irrigation_events.csv",71204,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/irrigation_events/sector_statistics_report.csv",463,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/merged/dataset_zone_1.csv",4858660,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/merged/dataset_zone_2.csv",4839550,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/merged/dataset_zone_3.csv",4814575,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/merged/dataset_zone_4.csv",4868178,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/merged/dataset_zone_5.csv",4840176,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/preprocessed/dataset_zone_1_preprocessed.csv",1760164,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/preprocessed/dataset_zone_2_preprocessed.csv",2164170,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/preprocessed/dataset_zone_3_preprocessed.csv",223079,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/preprocessed/dataset_zone_4_preprocessed.csv",2333917,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/02_processed_data/preprocessed/dataset_zone_5_preprocessed.csv",2159346,.csv
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/03_code/00_irrigation_actuators_cleaning.py",15103,.py
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/03_code/01_merge_datasets.py",8397,.py
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/03_code/02_preprocessing.py",9255,.py
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/03_code/README.md",4225,.md
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/03_code/config.py",8343,.py
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/03_code/requirements.txt",286,.txt
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/DATA_DICTIONARY.md",16629,.md
+"05_Irrigation_Actuator_Weather/Soil Moisture, Irrigation Actuator and Weather Dat/README.md",16373,.md
+_audit/dataset_inventory.json,41642,.json
+_audit/file_inventory.csv,5085,.csv

@@ -1,0 +1,44 @@
+{
+  "champion": "Random Forest",
+  "test_count": 517,
+  "test_accuracy": 1.0,
+  "test_macro_f1": 1.0,
+  "test_balanced_accuracy": 1.0,
+  "classification_report": {
+    "No irrigation (observed)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 285.0
+    },
+    "Irrigation (observed)": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 232.0
+    },
+    "accuracy": 1.0,
+    "macro avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 517.0
+    },
+    "weighted avg": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 517.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      285,
+      0
+    ],
+    [
+      0,
+      232
+    ]
+  ]
+}

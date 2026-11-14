@@ -1,0 +1,50 @@
+{
+  "project": "IrrigationNeed Day36",
+  "task": "source-recorded irrigation classification; NOT validated crop-water necessity",
+  "source_location": "/kaggle/input/datasets/loliwibu/irrigationneed-dataset/01_Irrigation_Dataset/Irrigation-Dataset/second dataset collected.xlsx",
+  "source_sha256": "f776f34fc9c7be1eef59614dc41ddeadef6fde9dc11d908c4ec8a513d6af4d2d",
+  "seed": 42,
+  "features": [
+    "crop type",
+    "Temperature",
+    "Humidity",
+    "Soil Moisture",
+    "Soil Tempertuer"
+  ],
+  "class_mapping": {
+    "0": "no irrigation (source label)",
+    "1": "irrigation (source label)"
+  },
+  "excluded_features": [
+    "Time",
+    "best time"
+  ],
+  "split_strategy": "chronological by timestamp, purge exact signature from later splits",
+  "train_count": 2511,
+  "val_count": 379,
+  "test_count": 517,
+  "conflicting_label_rows_quarantined": 0,
+  "purged_val": 159,
+  "purged_test": 22,
+  "champion_selection": "validation macro-F1 (balanced accuracy as tie-breaker)",
+  "champion": "Random Forest",
+  "validation_macro_f1": 1.0,
+  "test_macro_f1": 1.0,
+  "limitations": [
+    "Only one source target used in training",
+    "chronological neighboring records may be highly dependent",
+    "no farm/plant-level identity split verified",
+    "target semantics not externally verified",
+    "sensor drift/domain shift untested",
+    "probability calibration not assessed"
+  ],
+  "versions": {
+    "python": "3.13.16",
+    "pandas": "2.3.3",
+    "scikit_learn": "1.6.1"
+  },
+  "artifact_sha256": "835ce8cfa81402276f0795197a5eff4fab064383b583a342cff91c9b01d80593",
+  "input_root": "/kaggle/input/datasets/loliwibu/irrigationneed-dataset",
+  "auxiliary_sources_audited_only": true,
+  "primary_target_semantics_verified": false
+}

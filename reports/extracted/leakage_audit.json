@@ -1,0 +1,9 @@
+{
+  "quarantined_rows": 0,
+  "purged_validation": 159,
+  "purged_test": 22,
+  "train_validation_signature_overlap": 0,
+  "train_test_signature_overlap": 0,
+  "validation_test_signature_overlap": 0,
+  "chronological": true
+}

@@ -1,0 +1,4 @@
+model,validation_macro_f1,validation_balanced_accuracy,validation_accuracy
+Random Forest,1.0,1.0,1.0
+Logistic Regression,0.5012332121909344,0.5578735048521778,0.6015831134564644
+Dummy majority,0.3071297989031079,0.5,0.44327176781002636
