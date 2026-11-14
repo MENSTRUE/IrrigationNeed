@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-11-14",
+  "repository": "MENSTRUE/IrrigationNeed",
+  "source": "GitHub connector: README, AGENTS, LICENSE, tree, backend, frontend, notebook, experiment reports",
+  "documentation_count": 34,
+  "relative_references_checked": 257,
+  "broken_internal_references": [],
+  "preserved": [
+    "LICENSE",
+    ".gitignore",
+    ".env.example",
+    "notebooks/irrigationneed.ipynb",
+    "models/irrigation_champion.joblib",
+    "reports/extracted/*",
+    "backend/app/main.py",
+    "frontend/src/*",
+    "docs/FULLSTACK_SETUP.md"
+  ],
+  "not_verified": [
+    "actual local artifact SHA hash",
+    "original publisher dataset license",
+    "crop code units/semantics",
+    "independent field validation",
+    "live production deployment",
+    "automated runtime tests",
+    "source-specific properties beyond recorded evidence"
+  ]
+}
